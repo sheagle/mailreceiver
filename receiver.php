@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Program Name : fetch email with imap
+ * Programmer : shahin mohseni
+ * website : www.shahinmohseni.ir
+**/
 set_time_limit(0);
 require_once('cls_email.php');
 $imap = new email;
