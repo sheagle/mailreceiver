@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Program Name : fetch email with imap
+ * Programmer : shahin mohseni
+ * website : www.shahinmohseni.ir
+**/
 class email
 {
 	var $useremail;
